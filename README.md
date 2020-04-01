@@ -1,6 +1,6 @@
 # InstaBot
 ## Summary:
-This is project is part of Data Science and Machine Learning Course of Coding Ninjas. In this project, I have used all my knowledge which I have gained through the course. The packages that I have used to make this automated Instabot are Selenium, BeautifulSoup, Pandas, Numpy, Matplot and some inbuilt python packages. The Instabot fetches the details of users from the Intagram and does some computations and shows the result apart these it makes easy to answer the questions which were asked in the question statement. This Project has two parts and each part solves different queries.
+This project is part of Data Science and Machine Learning Course of Coding Ninjas. In this project, I have used all my knowledge which I have gained through the course. The packages that I have used to make this automated Instabot are Selenium, BeautifulSoup, Pandas, Numpy, Matplot and some inbuilt python packages. The Instabot fetches the details of users from the Intagram and does some computations and shows the result apart these it makes easy to answer the questions which were asked in the question statement. This Project has two parts and each part solves different queries.
 ### Software Requirements:
 1. Anaconda
 2. Web browser such as Google Chrome
